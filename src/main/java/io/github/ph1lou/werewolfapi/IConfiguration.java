@@ -265,4 +265,7 @@ public interface IConfiguration {
 
      boolean isSweetAngel();
 
+     int getScamDelay();
+
+     void setScamDelay();
 }
