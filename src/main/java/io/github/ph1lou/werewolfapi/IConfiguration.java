@@ -267,5 +267,5 @@ public interface IConfiguration {
 
      int getScamDelay();
 
-     void setScamDelay();
+     void setScamDelay(int scamDelay);
 }
