@@ -268,4 +268,8 @@ public interface IConfiguration {
      int getScamDelay();
 
      void setScamDelay(int scamDelay);
+
+     int getDistanceScammer();
+
+     void getDistanceScammer(int distanceScammer);
 }
