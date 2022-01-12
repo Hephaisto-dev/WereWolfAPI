@@ -271,5 +271,5 @@ public interface IConfiguration {
 
      int getDistanceScammer();
 
-     void getDistanceScammer(int distanceScammer);
+     void setDistanceScammer(int distanceScammer);
 }
